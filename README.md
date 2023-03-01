@@ -18,7 +18,16 @@
 
 ## related projects
 
-+ git@github.com:mwuerms/alarmclock_ble_central.git
-+ git@github.com:mwuerms/alarmclock_ble_handdevice.git
++ [alarmclock BLE central](https://github.com/mwuerms/alarmclock_ble_central), git@github.com:mwuerms/alarmclock_ble_central.git
+  + main application
+  + checkout to nRF5_SDK_16.0.0_98a08e2/examples/ble_central/
++ [alarmclock BLE handdevice](https://github.com/mwuerms/alarmclock_ble_handdevice), git@github.com:mwuerms/alarmclock_ble_handdevice.git
+  + hand device to determine if sleeper is going to wake up soon
+  + checkout to nRF5_SDK_16.0.0_98a08e2/examples/ble_peripheral/
+
+using 
+
++ [nRF5 SDK v16](https://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v16.x.x/)
++ [SEGGER Embedded Studio for ARM](https://www.segger.com/downloads/embedded-studio) v7.10a
 
 ## structure
