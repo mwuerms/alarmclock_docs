@@ -1,8 +1,5 @@
 # Alarmclock - Docs
 
-## aim, goal
-
-
 ![clock01](images/clock01.jpg)
 
 - [ ] display present time and next alarm time
@@ -13,8 +10,6 @@
 - [ ] USB supply (micro USB)
 - [ ] sunrise simulation using warm white LEDs
 - [ ] optional BLE for a ble handdevice
-
-## why
 
 ## related projects
 
